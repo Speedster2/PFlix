@@ -1,0 +1,8 @@
+Prva tabela:
+Ime, link do slike, sinopsis, tip(film, serija), zanrovi[], glumci[], producenti[], ocena.
+
+Druga tabela:
+Ime, ime epizode, link snimka, ime sajta izvora, broj epizode (0 ako je film), broj sezone (0 ako je film).
+
+SELECT * FROM table WHERE "John Cena" IN glumci;
+
